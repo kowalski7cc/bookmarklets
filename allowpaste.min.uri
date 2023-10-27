@@ -1,0 +1,1 @@
+javascript:(document.addEventListener("paste",function(t)%7Breturn t.stopImmediatePropagation(),!0%7D,!0))

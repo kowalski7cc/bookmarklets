@@ -1,0 +1,1 @@
+javascript:(function()%7Bfunction R(n)%7Bona="on"+n,window.addEventListener&&window.addEventListener(n,function(n)%7Bfor(var o=n.originalTarget;o;o=o.parentNode)o%5Bona%5D=null%7D,!0),window%5Bona%5D=null,document%5Bona%5D=null,document.body&&(document.body%5Bona%5D=null)%7DR("click"),R("mousedown"),R("mouseup"),R("selectstart");%7D)()

@@ -1,0 +1,1 @@
+javascript:(window.open(window.location,"popup","toolbar=no,menubar=no,resizable=yes,location=no,copyhistory=no"))
